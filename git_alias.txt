@@ -6,3 +6,12 @@ alias gps='git push origin master'
 alias gpl='git pull origin master'
 alias got='git '
 alias get='git '
+
+You can use that with other commands!
+
+For saveing this options, You must paste them to the end of "~/.bashrc"
+easyest way with:
+$ vi ~/.bashrc
+
+This file countains all command that you need when you start the terminal and first start them, then
+waiting for your commands!

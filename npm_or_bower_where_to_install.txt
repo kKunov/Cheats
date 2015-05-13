@@ -1,0 +1,7 @@
+npm
+    express
+    jade
+bower
+    bootstrap
+    jquery
+    q#1.x

@@ -1,0 +1,8 @@
+For Packege control, search in google
+
+Packege control opening: ctrl + alt + p
+
+    Packeges:
+        Preaty JSON
+        JavaScript
+        Anaconda

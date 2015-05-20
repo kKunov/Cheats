@@ -1,0 +1,4 @@
+mp2
+    mp2 start server.js
+
+nginx for more than one site on one droplet
